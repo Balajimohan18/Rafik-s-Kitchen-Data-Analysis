@@ -22,12 +22,12 @@ The data is from the Fast-food Restaurant about their Sales and Expenses of the 
  
 ### _HOME_
  
-[image](https://github.com/Balajimohan18/Rafik-s-Kitchen-Data-Analysis/assets/136687240/1d6e6712-b102-4982-971d-6a891b29ea96)
+![image](https://github.com/Balajimohan18/Rafik-s-Kitchen-Data-Analysis/assets/136687240/1d6e6712-b102-4982-971d-6a891b29ea96)
 
  
 ### _REPORT_
  
-[image](https://github.com/Balajimohan18/Rafik-s-Kitchen-Data-Analysis/assets/136687240/fb1a1d10-76c3-4bdf-902d-a0a3396e52bc)
+![image](https://github.com/Balajimohan18/Rafik-s-Kitchen-Data-Analysis/assets/136687240/fb1a1d10-76c3-4bdf-902d-a0a3396e52bc)
 
 
 has context menu
