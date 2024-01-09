@@ -21,7 +21,9 @@ The data is from the Fast-food Restaurant about their Sales and Expenses of the 
 ## Dashboards:
  
 ### _HOME_
- ![image](https://github.com/Balajimohan18/Rafik-s-Kitchen-Data-Analysis/assets/136687240/d8188d63-d6b1-4d55-ba67-1d152c1ae596)
+
+![image](https://github.com/Balajimohan18/Rafik-s-Kitchen-Data-Analysis/assets/136687240/0f1614db-c176-45f1-95e0-ae1de8063c1a)
+
 
 
  
