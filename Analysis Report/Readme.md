@@ -21,13 +21,14 @@ The data is from the Fast-food Restaurant about their Sales and Expenses of the 
 ## Dashboards:
  
 ### _HOME_
- 
-![image](https://github.com/Balajimohan18/Rafik-s-Kitchen-Data-Analysis/assets/136687240/1d6e6712-b102-4982-971d-6a891b29ea96)
+ ![image](https://github.com/Balajimohan18/Rafik-s-Kitchen-Data-Analysis/assets/136687240/d8188d63-d6b1-4d55-ba67-1d152c1ae596)
+
 
  
 ### _REPORT_
  
-![image](https://github.com/Balajimohan18/Rafik-s-Kitchen-Data-Analysis/assets/136687240/fb1a1d10-76c3-4bdf-902d-a0a3396e52bc)
+![image](https://github.com/Balajimohan18/Rafik-s-Kitchen-Data-Analysis/assets/136687240/2a3ca4f5-e474-40f3-9a33-65e2f24b7f3d)
+
 
 
 has context menu
